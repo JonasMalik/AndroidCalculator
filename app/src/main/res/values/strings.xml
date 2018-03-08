@@ -1,0 +1,48 @@
+<resources>
+<string name="app_name">AndroidCalculator</string>
+
+<!-- New Day fragment -->
+<string name="start_work">Ange tid för start av arbete</string>
+<string name="end_work">Ange tid för avslutat arbete</string>
+<string name="lunch_work">Ange antal timmar lunchH/rast</string>
+<string name="date_work">Ange datum</string>
+<string name="save">Spara</string>
+<string name="update">Updatera</string>
+
+<!-- Calculator -->
+<string name="zero">0</string>
+<string name="one">1</string>
+<string name="two">2</string>
+<string name="three">3</string>
+<string name="four">4</string>
+<string name="five">5</string>
+<string name="six">6</string>
+<string name="seven">7</string>
+<string name="eight">8</string>
+<string name="nine">9</string>
+
+<string name="delete">Del</string>
+<string name="division">/</string>
+<string name="multiplication">x</string>
+<string name="subtraction">-</string>
+<string name="addition">+</string>
+<string name="dot">.</string>
+<string name="equal">=</string>
+
+<!-- Delete Dialog -->
+<string name="delete_title">Radera</string>
+<string name="delete_message">Är du verkligen säker på att du vill radera detta arbetspass?</string>
+<string name="delete_positive_button">Ja</string>
+<string name="delete_negative_button">Nej</string>
+
+<!-- Toasts -->
+<string name="toast_delete_error">Fel vid radering!</string>
+<string name="toast_delete_success">Arbetspass raderat</string>
+<string name="toast_delete_nothing_to_delete">Ingen logg för detta datum</string>
+<string name="toast_already_exists">Logg existerar redan</string>
+
+<!-- Calendar -->
+<string name="hours_total">Antal arbetstimmar:</string>
+<string name="days_total">Antal arbetspass:</string>
+
+</resources>
